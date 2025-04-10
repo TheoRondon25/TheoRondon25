@@ -3,7 +3,9 @@
 
 🙎🏻‍♂️ Nascido em Bauru - SP, sou um estudante de Ciência da Computação apaixonado pelo que faço, procuro estar sempre aprendendo sobre coisas novas e me mantendo por dentro do mundo da tecnologia.
 
-👨🏻‍💻 Atualmente estou aprendendo sobre Django, procurando fazer alguns projetos pessoais e ampliando minhas habilidades no backend, principalmente em Python, linguagem que gosto muito.
+👨🏻‍💻 Atualmente estou aprimorando meus conhecimentos em C#, utilizando-o no meu estágio de desenvolvimento.
+
+👨🏻‍💻 Fora o estágio, estou realizando projetos de estudo com React.Js e Node.Js, além de estar ampliando minhas habilidades no backend, tanto com Node, quanto com Python, linguagem que gosto muito.
 
 ## Tecnologias que utilizo
 
