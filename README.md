@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Theo Rondon 🙋🏻‍♂️
 **`Desenvolvedor Full-Stack`**
 
-🙎🏻‍♂️ Nascido em Bauru - SP, sou um estudante de Ciência da Computação apaixonado pelo que faço, procuro estar sempre aprendendo sobre coisas novas e me mantendo por dentro do mundo da tecnologia.
+🙎🏻‍♂️ Nascido em Bauru - SP, sou um Desenvolvedor Júnior apaixonado pelo que faço, procuro estar sempre aprendendo sobre coisas novas e me mantendo por dentro do mundo da tecnologia.
 
-👨🏻‍💻 Atualmente estou aprimorando meus conhecimentos em C#, utilizando-o no meu estágio de desenvolvimento.
-
-👨🏻‍💻 Fora o estágio, estou realizando projetos de estudo com React.Js e Node.Js, além de estar ampliando minhas habilidades no backend, tanto com Node, quanto com Python, linguagem que gosto muito.
+👨🏻‍💻 Atualmente estou aprimorando meus conhecimentos em C#, utilizando-o no meu dia-a-dia de trabalho.
+ 
+👨🏻‍💻 Fora as atividades no trabalho, sou estudante de Ciência da Computação e sigo realizando projetos de estudo com React.Js e Node.Js, além de estar ampliando minhas habilidades no backend, tanto com Node, quanto com Python, linguagem que gosto muito.
 
 ## Tecnologias que utilizo
 
@@ -47,10 +47,10 @@
       width=42%
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRondon25&theme=radical&layout=compact&custom_title=Tecnologias"
       alt="Tecnologias"
-    />
-    <img
+    />  
+    <!--<img
       width=55%
       src="https://github-readme-stats.vercel.app/api?username=TheoRondon25&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
       alt="Estatísticas do GitHub"
-    />
+    /> -->
 </div>
