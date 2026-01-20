@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Theo Rondon 🙋🏻‍♂️
 **`Desenvolvedor Full-Stack`**
 
-🙎🏻‍♂️ Nascido em Bauru - SP, sou um Desenvolvedor Júnior apaixonado pelo que faço, procuro estar sempre aprendendo sobre coisas novas e me mantendo por dentro do mundo da tecnologia.
+Desenvolvedor .NET / C# apaixonado por tecnologia e aprendizado contínuo.
+Atualmente atuo como programador .NET e por fora do trabalho, faço uma formação avançada em C# pela Rocketseat, aprofundando boas práticas e arquitetura de software.
 
-👨🏻‍💻 Atualmente estou aprimorando meus conhecimentos em C#, utilizando-o no meu dia-a-dia de trabalho.
- 
-👨🏻‍💻 Fora as atividades no trabalho, sou estudante de Ciência da Computação e sigo realizando projetos de estudo com React.Js e Node.Js, além de estar ampliando minhas habilidades no backend, tanto com Node, quanto com Python, linguagem que gosto muito.
+🎓 Formado em Ciência da Computação.
+🚀 Tenho interesse em desenvolvimento full stack e backend, com experiências em Node.js, React.js e Python, que utilizo em projetos pessoais e estudos.
 
 ## Tecnologias que utilizo
 
