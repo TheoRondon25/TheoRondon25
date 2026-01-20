@@ -5,6 +5,7 @@ Desenvolvedor .NET / C# apaixonado por tecnologia e aprendizado contínuo.
 Atualmente atuo como programador .NET e por fora do trabalho, faço uma formação avançada em C# pela Rocketseat, aprofundando boas práticas e arquitetura de software.
 
 🎓 Formado em Ciência da Computação.
+
 🚀 Tenho interesse em desenvolvimento full stack e backend, com experiências em Node.js, React.js e Python, que utilizo em projetos pessoais e estudos.
 
 ## Tecnologias que utilizo
