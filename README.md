@@ -41,17 +41,18 @@ Atualmente atuo como programador .NET e por fora do trabalho, faço uma formaç�
 </div>
 
 
-### 📊 Estatísticas
+## 🧠 Stack principal
 
-<div class="stats-container">
-    <img
-      width=42%
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRondon25&theme=radical&layout=compact&custom_title=Tecnologias"
-      alt="Tecnologias"
-    />  
-    <!--<img
-      width=55%
-      src="https://github-readme-stats.vercel.app/api?username=TheoRondon25&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-      alt="Estatísticas do GitHub"
-    /> -->
-</div>
+**Backend**
+- C#
+- .NET / ASP.NET Core
+- SQL Server
+
+**Frontend**
+- React
+- JavaScript
+
+**Outros**
+- Python
+- Node.js
+
