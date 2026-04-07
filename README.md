@@ -1,8 +1,14 @@
 ## Olá! Eu sou o Theo Rondon 🙋🏻‍♂️
 **`Desenvolvedor Full-Stack`**
 
-Desenvolvedor .NET / C# apaixonado por tecnologia e aprendizado contínuo.
-Atualmente atuo como programador .NET e por fora do trabalho, faço uma formação avançada em C# pela Rocketseat, aprofundando boas práticas e arquitetura de software.
+Desenvolvedor Full-Stack focado em construir aplicações modernas e escaláveis.
+Atualmente trabalho com C# (.NET) e SQL Server, atuando principalmente no backend.
+
+Nos estudos, estou me aprofundando em:
+- C# e arquitetura de software (boas práticas, Clean Code)
+- React.js para desenvolvimento de interfaces modernas
+
+Compartilho minha evolução através dos projetos aqui no GitHub 🚀
 
 🎓 Formado em Ciência da Computação.
 
