@@ -1,64 +1,48 @@
-## Olá! Eu sou o Theo Rondon 🙋🏻‍♂️
-**`Desenvolvedor Full-Stack`**
+# Hi, I'm Theo Rondon 👋
 
-Desenvolvedor Full-Stack focado em construir aplicações modernas e escaláveis.
-Atualmente trabalho com C# (.NET) e SQL Server, atuando principalmente no backend.
+## 💻 C# .NET Backend Developer
 
-Nos estudos, estou me aprofundando em:
-- C# e arquitetura de software (boas práticas, Clean Code)
-- React.js para desenvolvimento de interfaces modernas
+Backend developer focused on building scalable and maintainable applications using **C# (.NET)** and **SQL Server**.
 
-Compartilho minha evolução através dos projetos aqui no GitHub 🚀
+I have experience working with:
+- RESTful API development using ASP.NET
+- Database design, queries, and performance optimization
+- Legacy code refactoring and system maintenance
+- Integration between systems and services
 
-🎓 Formado em Ciência da Computação.
+I’m passionate about writing **clean, efficient, and well-structured code**, always focusing on solving real business problems.
 
-🚀 Tenho interesse em desenvolvimento full stack e backend, com experiências em Node.js, React.js e Python, que utilizo em projetos pessoais e estudos.
+---
 
-## Tecnologias que utilizo
+## 🚀 What I'm currently focused on
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-</p>
+- Improving my skills in **Software Architecture**
+- Applying **Clean Code and best practices**
+- Building real-world backend projects with .NET
+- Expanding knowledge in **system design and scalability**
 
+---
 
+## 🛠️ Tech Stack
 
-## Como entrar em contato?
-
-<div>
-  <a href="https://www.linkedin.com/in/th%C3%A9o-rondon-b7259726b/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30">
-  </a>
-  <a href="https://wa.me/5514991044138?text=Olá, Théo!" target="_blank" title="WhatsApp">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30">
-  </a>
-  <a href="mailto:theoprondon@hotmail.com" target="_blank" title="Email">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30">
-  </a>
-  <a href="https://www.instagram.com/theorondon/" target="_blank" title="Instagram">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
-  </a>
-</div>
-
-
-## 🧠 Stack principal
-
-**Backend**
-- C#
-- .NET / ASP.NET Core
+### Backend
+- C# / .NET / ASP.NET Core
 - SQL Server
+- REST APIs
 
-**Frontend**
+### Frontend
 - React
 - JavaScript
 
-**Outros**
+### Others
 - Python
 - Node.js
+- Git & GitHub
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Theo Rondon](https://www.linkedin.com/in/th%C3%A9o-rondon-b7259726b/)
+- Email: theoprondon@hotmail.com
 
