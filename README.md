@@ -26,15 +26,21 @@ I’m passionate about writing **clean, efficient, and well-structured code**, a
 ## 🛠️ Tech Stack
 
 ### Backend
-- C# / .NET / ASP.NET Core
+- C# / .NET 8 / ASP.NET Core
+- Entity Framework Core
 - SQL Server
 - REST APIs
+- Clean Architecture
+- JWT Authentication
+- Azure (App Services, Deploy & Cloud Fundamentals)
 
 ### Frontend
 - React
-- JavaScript
+- JavaScript / TypeScript
+- Tailwind CSS
 
 ### Others
+- Docker (learning)
 - Python
 - Node.js
 - Git & GitHub
